@@ -1,4 +1,4 @@
-# React-tips-calculator
+# React-modal-window
 
 This project calculates the total amount of the bill with tips.
 
