@@ -2,7 +2,9 @@
   "name": "react-some",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Alex-Sheiko.github.io/react-modal-window",
   "dependencies": {
+    "@headlessui/react": "^1.7.13",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -17,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -39,5 +43,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "gh-pages": "^5.0.0",
+    "postcss": "^8.4.21",
+    "sass": "^1.59.2",
+    "tailwindcss": "^3.3.0"
   }
 }
