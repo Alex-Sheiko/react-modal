@@ -1,6 +1,6 @@
 # React-modal-window
 
-This project calculates the total amount of the bill with tips.
+This project implements the opening of a modal window with an animation on the click of a button. The modal window can be closed using the button, the ESC button and overlay.
 
 [Website](https://alex-sheiko.github.io/react-modal-window/)
 
