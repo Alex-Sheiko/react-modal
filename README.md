@@ -6,7 +6,7 @@ This project implements the opening of a modal window with an animation on the c
 
 ## Preview
 
-![Image](https://github.com/Alex-Sheiko/react-modal-window/blob/main/preview/react-modal-window.jpg)
+![Image](https://github.com/Alex-Sheiko/react-modal/blob/main/preview/react-modal-window.jpg)
 
 ## Used technologies and tools
 
