@@ -2,7 +2,7 @@
   "name": "react-some",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Alex-Sheiko.github.io/react-modal-window",
+  "homepage": "https://Alex-Sheiko.github.io/react-modal",
   "dependencies": {
     "@headlessui/react": "^1.7.13",
     "@testing-library/jest-dom": "^5.16.5",
